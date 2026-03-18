@@ -1,2 +1,2 @@
-# SQL_Leetcode_Solutions
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# SQL_DSA_Leetcode_Solutions
+A collection of my SQL and DSA LeetCode solutions to ace the coding interview!
