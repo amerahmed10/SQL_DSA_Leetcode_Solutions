@@ -16,6 +16,7 @@ A collection of my SQL and DSA LeetCode solutions to ace the coding interview!
 | [0183-customers-who-never-order](https://github.com/amerahmed10/SQL_Leetcode_Solutions/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/amerahmed10/SQL_Leetcode_Solutions/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/amerahmed10/SQL_Leetcode_Solutions/tree/master/0185-department-top-three-salaries) |
+| [0511-game-play-analysis-i](https://github.com/amerahmed10/SQL_Leetcode_Solutions/tree/master/0511-game-play-analysis-i) |
 | [0614-second-degree-follower](https://github.com/amerahmed10/SQL_Leetcode_Solutions/tree/master/0614-second-degree-follower) |
 ## Array
 |  |
