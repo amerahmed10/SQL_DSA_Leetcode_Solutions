@@ -35,4 +35,4 @@ A collection of my SQL and DSA LeetCode solutions to ace the coding interview!
 |  |
 | ------- |
 | [0136-single-number](https://github.com/amerahmed10/SQL_Leetcode_Solutions/tree/master/0136-single-number) |
-<!---LeetCode Topics End-->ns
+<!---LeetCode Topics End-->
