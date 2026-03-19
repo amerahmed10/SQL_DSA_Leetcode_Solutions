@@ -17,4 +17,12 @@ A collection of my SQL and DSA LeetCode solutions to ace the coding interview!
 | [0184-department-highest-salary](https://github.com/amerahmed10/SQL_Leetcode_Solutions/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/amerahmed10/SQL_Leetcode_Solutions/tree/master/0185-department-top-three-salaries) |
 | [0614-second-degree-follower](https://github.com/amerahmed10/SQL_Leetcode_Solutions/tree/master/0614-second-degree-follower) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/amerahmed10/SQL_Leetcode_Solutions/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/amerahmed10/SQL_Leetcode_Solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
