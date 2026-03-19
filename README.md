@@ -21,8 +21,13 @@ A collection of my SQL and DSA LeetCode solutions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/amerahmed10/SQL_Leetcode_Solutions/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/amerahmed10/SQL_Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/amerahmed10/SQL_Leetcode_Solutions/tree/master/0001-two-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/amerahmed10/SQL_Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
