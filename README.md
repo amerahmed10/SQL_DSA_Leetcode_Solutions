@@ -31,6 +31,7 @@ A collection of my SQL and DSA LeetCode solutions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/amerahmed10/SQL_Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/amerahmed10/SQL_Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/amerahmed10/SQL_Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [1051-height-checker](https://github.com/amerahmed10/SQL_Leetcode_Solutions/tree/master/1051-height-checker) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of my SQL and DSA LeetCode solutions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/amerahmed10/SQL_Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/amerahmed10/SQL_Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/amerahmed10/SQL_Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [1051-height-checker](https://github.com/amerahmed10/SQL_Leetcode_Solutions/tree/master/1051-height-checker) |
 ## Binary Search
 |  |
 | ------- |
@@ -73,4 +75,8 @@ A collection of my SQL and DSA LeetCode solutions to ace the coding interview!
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/amerahmed10/SQL_Leetcode_Solutions/tree/master/0268-missing-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/amerahmed10/SQL_Leetcode_Solutions/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
