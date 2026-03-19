@@ -45,4 +45,8 @@ A collection of my SQL and DSA LeetCode solutions to ace the coding interview!
 | ------- |
 | [0217-contains-duplicate](https://github.com/amerahmed10/SQL_Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/amerahmed10/SQL_Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/amerahmed10/SQL_Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
