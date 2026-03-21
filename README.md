@@ -21,6 +21,7 @@ A collection of my SQL and DSA LeetCode solutions to ace the coding interview!
 | [0534-game-play-analysis-iii](https://github.com/amerahmed10/SQL_Leetcode_Solutions/tree/master/0534-game-play-analysis-iii) |
 | [0550-game-play-analysis-iv](https://github.com/amerahmed10/SQL_Leetcode_Solutions/tree/master/0550-game-play-analysis-iv) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/amerahmed10/SQL_Leetcode_Solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [0578-get-highest-answer-rate-question](https://github.com/amerahmed10/SQL_Leetcode_Solutions/tree/master/0578-get-highest-answer-rate-question) |
 | [0614-second-degree-follower](https://github.com/amerahmed10/SQL_Leetcode_Solutions/tree/master/0614-second-degree-follower) |
 ## Array
 |  |
