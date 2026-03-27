@@ -24,6 +24,7 @@ A collection of my SQL and DSA LeetCode solutions to ace the coding interview!
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/amerahmed10/SQL_Leetcode_Solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0578-get-highest-answer-rate-question](https://github.com/amerahmed10/SQL_Leetcode_Solutions/tree/master/0578-get-highest-answer-rate-question) |
 | [0580-count-student-number-in-departments](https://github.com/amerahmed10/SQL_Leetcode_Solutions/tree/master/0580-count-student-number-in-departments) |
+| [0607-sales-person](https://github.com/amerahmed10/SQL_Leetcode_Solutions/tree/master/0607-sales-person) |
 | [0614-second-degree-follower](https://github.com/amerahmed10/SQL_Leetcode_Solutions/tree/master/0614-second-degree-follower) |
 | [1082-sales-analysis-i](https://github.com/amerahmed10/SQL_Leetcode_Solutions/tree/master/1082-sales-analysis-i) |
 ## Array
