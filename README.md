@@ -30,6 +30,7 @@ A collection of my SQL and DSA LeetCode solutions to ace the coding interview!
 | [0620-not-boring-movies](https://github.com/amerahmed10/SQL_Leetcode_Solutions/tree/master/0620-not-boring-movies) |
 | [1082-sales-analysis-i](https://github.com/amerahmed10/SQL_Leetcode_Solutions/tree/master/1082-sales-analysis-i) |
 | [1113-reported-posts](https://github.com/amerahmed10/SQL_Leetcode_Solutions/tree/master/1113-reported-posts) |
+| [1174-immediate-food-delivery-ii](https://github.com/amerahmed10/SQL_Leetcode_Solutions/tree/master/1174-immediate-food-delivery-ii) |
 ## Array
 |  |
 | ------- |
