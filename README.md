@@ -37,6 +37,7 @@ A collection of my SQL and DSA LeetCode solutions to ace the coding interview!
 | [1075-project-employees-i](https://github.com/amerahmed10/SQL_Leetcode_Solutions/tree/master/1075-project-employees-i) |
 | [1082-sales-analysis-i](https://github.com/amerahmed10/SQL_Leetcode_Solutions/tree/master/1082-sales-analysis-i) |
 | [1113-reported-posts](https://github.com/amerahmed10/SQL_Leetcode_Solutions/tree/master/1113-reported-posts) |
+| [1148-article-views-i](https://github.com/amerahmed10/SQL_Leetcode_Solutions/tree/master/1148-article-views-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/amerahmed10/SQL_Leetcode_Solutions/tree/master/1174-immediate-food-delivery-ii) |
 | [1350-students-with-invalid-departments](https://github.com/amerahmed10/SQL_Leetcode_Solutions/tree/master/1350-students-with-invalid-departments) |
 | [1407-top-travellers](https://github.com/amerahmed10/SQL_Leetcode_Solutions/tree/master/1407-top-travellers) |
