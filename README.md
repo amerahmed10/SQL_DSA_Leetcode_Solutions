@@ -42,6 +42,7 @@ A collection of my SQL and DSA LeetCode solutions to ace the coding interview!
 | [1350-students-with-invalid-departments](https://github.com/amerahmed10/SQL_Leetcode_Solutions/tree/master/1350-students-with-invalid-departments) |
 | [1355-activity-participants](https://github.com/amerahmed10/SQL_Leetcode_Solutions/tree/master/1355-activity-participants) |
 | [1407-top-travellers](https://github.com/amerahmed10/SQL_Leetcode_Solutions/tree/master/1407-top-travellers) |
+| [1789-primary-department-for-each-employee](https://github.com/amerahmed10/SQL_Leetcode_Solutions/tree/master/1789-primary-department-for-each-employee) |
 | [2072-the-winner-university](https://github.com/amerahmed10/SQL_Leetcode_Solutions/tree/master/2072-the-winner-university) |
 ## Array
 |  |
